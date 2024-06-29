@@ -2,9 +2,10 @@
 
 
 Click Here for Video Demos
+
 [Portal Tour](https://1drv.ms/v/s!AudVBigMgximj9IrItSNTz_V5x7s2w?e=oVVk0u)
 
-[How to edit easily CSS uisng Browser Inspect](https://1drv.ms/v/s!AudVBigMgximj8l1UmGUDk6DBBRpPg?e=7xou4Q)
+[How to edit easily CSS using Browser Inspect](https://1drv.ms/v/s!AudVBigMgximj8l1UmGUDk6DBBRpPg?e=7xou4Q)
 
 
 
