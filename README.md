@@ -30,18 +30,20 @@
 ![Example Image](https://github.com/RMBDon/Lazy-Portal-v7-RMTheme-2/blob/main/Parameters.png)
 
 ### 5. You can enable/disable effects on the css file. Test which one to disable depending on the devices on your network (Have low-end devices).
+
    - **Recommendations:**
+     
               1. Use main-min image only for branding.
      
-                        a. Disable header by setting the --Turn-off-header to 0, use the Canva Template 2 - Whole provided above and adjust the parameters needed to center the image.
+                        a. Disable header by setting the `--Turn-off-header` to 0, use the `Canva Template 2 - Whole` provided above and adjust the parameters needed to center the image.
      
                         b. The parameters involve in centering the image are:
      
-                                --MainImgScale : 100% (Ensure that the image is equal or less than the whole screen to avoid glitching) (max of 100%)
+                                `--MainImgScale` : 100% (Ensure that the image is equal or less than the whole screen to avoid glitching) (max of 100%)
      
-                                --AdjustHeaderDistance (This adjusts the positions of the buttons below. Make sure you give enough space for hidden buttons)
+                                `--AdjustHeaderDistance` (This adjusts the positions of the buttons below. Make sure you give enough space for hidden buttons)
      
-                                --ImgTopAdjust (This adjusts the main-min on the portal. Make sure to adjust this when using other images given on this page)
+                                `--ImgTopAdjust` (This adjusts the main-min on the portal. Make sure to adjust this when using other images given on this page)
      
 ---
 
