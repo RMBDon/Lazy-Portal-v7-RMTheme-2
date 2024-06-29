@@ -1,7 +1,7 @@
 # Lazy-Portal-v7-RMTheme-2
 
 
-Click Here for Video Demos
+# Click Here for Video Demos
 
 [Portal Tour](https://1drv.ms/v/s!AudVBigMgximj8l1UmGUDk6DBBRpPg?e=7xou4Q)
 
@@ -18,7 +18,8 @@ Click Here for Video Demos
 
 [Parameters Screenshot](https://1drv.ms/i/s!AudVBigMgximj895E_1L3Gv6Tn3Txw?e=VS8zhV) 
 
-main-min Templates:
+main-min Canva Templates:
+
 [Top portion portal template](https://www.canva.com/design/DAGIJDVpBbw/-p_QgYGILMwf7lAiWbmQww/view?utm_content=DAGIJDVpBbw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
         
 [Whole portal template](https://www.canva.com/design/DAGJcFIqoeo/R7V45gM_zOol4vwTgUuuUQ/view?utm_content=DAGJcFIqoeo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
