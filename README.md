@@ -5,11 +5,6 @@
 ## [Downloads Folder](https://1drv.ms/f/s!AudVBigMgximj9QGwv3MwJ3fomFdzQ?e=TT6ttJ) 
 
 
-![Example Image](https://github.com/RMBDon/Lazy-Portal-v7-RMTheme-2/blob/main/LazyPortal_Theme_2.mp4)
-![Example Image](https://github.com/RMBDon/Lazy-Portal-v7-RMTheme-2/blob/main/Parameters.png)
-
-
-
 ## main-min Image Canva Templates:
 
 ### [Main-min canva Template 1 - Only Top](https://www.canva.com/design/DAGIJDVpBbw/-p_QgYGILMwf7lAiWbmQww/view?utm_content=DAGIJDVpBbw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
@@ -19,20 +14,22 @@
 
 ## Instructions
 
-1. Replace `style.css` at `/hotspot/assets/css/`
+### 1. Replace `style.css` at `/hotspot/assets/css/`
 
-2. Replace `main-min.jpg` at `/hotspot/assets/img/`
+### 2. Replace `main-min.jpg` at `/hotspot/assets/img/`
    - **Note:** The Images used have the dimensions ``(380px × 337px)`` for top portion only and ``(400px × 950px)``. They have different dimensions compared to the default jpg ``(600px × 345px)``.
 
-3. Fonts can be edited for Main Font, Header 1, Header 2
+### 3. Fonts can be edited for Main Font, Header 1, Header 2
    - Place the Referenced Fonts at `/hotspot/assets/font/`
    - Edit the Name of the font also it's respective directory at the css file
      - **Note:** 
      	Adjust according to your text, especially the Header Font Size and the Spacing
 
-4. Adjust the headers accordingly. Comments are provided for easy guidance.
+### 4. Adjust the headers accordingly. Comments are provided for easy guidance.
+![Example Image](https://github.com/RMBDon/Lazy-Portal-v7-RMTheme-2/blob/main/Parameters.png)
 
-5. You can enable/disable effects on the css file. Test which one to disable depending on the devices on your network.
+
+### 5. You can enable/disable effects on the css file. Test which one to disable depending on the devices on your network.
 ---
 
 If nagustuhan nyo boss, pangkape lang 🤣☕️ 09760049167  
