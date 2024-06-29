@@ -1,6 +1,6 @@
 # Lazy-Portal-v7-RMTheme-2
 
-## [Click Here for Demo Videos and Tips]([https://1drv.ms/v/s!AudVBigMgximj8l1UmGUDk6DBBRpPg?e=7xou4Q](https://1drv.ms/f/s!AudVBigMgximj9QHjyOKfstjMwQ5NQ?e=YQ2oCk))
+## [Click Here for Demo Videos and Tips]([https://1drv.ms/v/s!AudVBigMgximj8l1UmGUDk6DBBRpPg?e=7xou4Q](https://1drv.ms/f/s!AudVBigMgximj9QHjyOKfstjMwQ5NQ?e=YQ2oCk)
 
 ## [Downloads Folder](https://1drv.ms/f/s!AudVBigMgximj9QGwv3MwJ3fomFdzQ?e=TT6ttJ) 
 
