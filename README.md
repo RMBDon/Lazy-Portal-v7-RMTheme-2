@@ -32,7 +32,7 @@
 ### 5. You can enable/disable effects on the css file. Test which one to disable depending on the devices on your network.
 ---
 
-If nagustuhan nyo boss, pangkape lang 🤣☕️ 09760049167  
-Maraming Salamat!
+# If nagustuhan nyo boss, pangkape lang 🤣☕️ 09760049167  
+## Maraming Salamat!
 
-zip password - lazy5491
+### zip password - lazy5491
