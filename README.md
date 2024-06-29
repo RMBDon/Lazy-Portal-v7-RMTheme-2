@@ -2,7 +2,7 @@
 
 ## [Click Here for Demo Videos and Tips](https://1drv.ms/f/s!AudVBigMgximj9QHjyOKfstjMwQ5NQ?e=YQ2oCk)
 
-![Portal](Portal_Sample.gif)
+![Portal](PortalSample.gif)
 
 ## [Downloads Folder](https://1drv.ms/f/s!AudVBigMgximj9QGwv3MwJ3fomFdzQ?e=TT6ttJ) 
 
