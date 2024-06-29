@@ -5,6 +5,11 @@
 ## [Downloads Folder](https://1drv.ms/f/s!AudVBigMgximj9QGwv3MwJ3fomFdzQ?e=TT6ttJ) 
 
 
+![Example Image](https://github.com/RMBDon/Lazy-Portal-v7-RMTheme-2/blob/main/LazyPortal_Theme_2.mp4)
+![Example Image](https://github.com/RMBDon/Lazy-Portal-v7-RMTheme-2/blob/main/Parameters.png)
+
+
+
 ## main-min Image Canva Templates:
 
 ### [Main-min canva Template 1 - Only Top](https://www.canva.com/design/DAGIJDVpBbw/-p_QgYGILMwf7lAiWbmQww/view?utm_content=DAGIJDVpBbw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
