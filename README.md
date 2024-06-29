@@ -27,7 +27,8 @@
 
 ### 4. Adjust the headers, images and effects accordingly. Comments are provided for easy guidance. [Click here](https://1drv.ms/v/s!AudVBigMgximj9IrItSNTz_V5x7s2w) if you want to know how to view/get parameters easier using PC Browser Inspect. 
 
-![Example Image](https://github.com/RMBDon/Lazy-Portal-v7-RMTheme-2/blob/main/Parameters.png)
+![Example Image](Parameters.png)
+<img src="Parameters.png" alt="Example Image">
 
 ### 5. You can enable/disable effects on the css file. Test which one to disable depending on the devices on your network (Have low-end devices).
 
