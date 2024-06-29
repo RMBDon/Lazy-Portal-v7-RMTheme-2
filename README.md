@@ -1,31 +1,26 @@
 # Lazy-Portal-v7-RMTheme-2
 
 
-# Click Here for Video Demos
+## Click Here for Video Demos
 
 [Portal Tour](https://1drv.ms/v/s!AudVBigMgximj8l1UmGUDk6DBBRpPg?e=7xou4Q)
 
 [How to edit easily CSS using Browser Inspect](https://1drv.ms/v/s!AudVBigMgximj9IrItSNTz_V5x7s2w?e=oVVk0u)
 
 
-# Downloads:
+## Downloads:
 
-[Latest CSS File](https://1drv.ms/u/s!AudVBigMgximj9NiMG_J2jxYF3ww5w?e=IDBUcq) 
+[Downloads Folder](https://1drv.ms/f/s!AudVBigMgximj9QGwv3MwJ3fomFdzQ?e=TT6ttJ) 
 
-[Old Versions CSS File](https://1drv.ms/u/s!AudVBigMgximj9NedpEdBmrAzGwk-w?e=SdBgKS) 
 
-[main-min images](https://1drv.ms/f/s!AudVBigMgximj9Nfd0eS66CkSG4PZA?e=EskDo6) 
-
-[Parameters Screenshot](https://1drv.ms/i/s!AudVBigMgximj895E_1L3Gv6Tn3Txw?e=VS8zhV) 
-
-main-min Canva Templates:
+main-min Image Canva Templates:
 
 [Top portion portal template](https://www.canva.com/design/DAGIJDVpBbw/-p_QgYGILMwf7lAiWbmQww/view?utm_content=DAGIJDVpBbw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
         
 [Whole portal template](https://www.canva.com/design/DAGJcFIqoeo/R7V45gM_zOol4vwTgUuuUQ/view?utm_content=DAGJcFIqoeo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
 
-# Instructions
+## Instructions
 
 1. Replace `style.css` at `/hotspot/assets/css/`
 
