@@ -1,23 +1,23 @@
 # Lazy-Portal-v7-RMTheme-2
 
+## [Click Here for Demo Videos and Tips](https://1drv.ms/f/s!AudVBigMgximj9QHjyOKfstjMwQ5NQ?e=YQ2oCk)
 
-Click Here for Video Demos
-
-[Portal Tour](https://1drv.ms/v/s!AudVBigMgximj9IrItSNTz_V5x7s2w?e=oVVk0u)
-
-[How to edit easily CSS using Browser Inspect](https://1drv.ms/v/s!AudVBigMgximj8l1UmGUDk6DBBRpPg?e=7xou4Q)
+## [Downloads Folder](https://1drv.ms/f/s!AudVBigMgximj9QGwv3MwJ3fomFdzQ?e=TT6ttJ) 
 
 
+## main-min Image Canva Templates:
 
-# Instructions
+### [Main-min canva Template 1 - Only Top](https://www.canva.com/design/DAGIJDVpBbw/-p_QgYGILMwf7lAiWbmQww/view?utm_content=DAGIJDVpBbw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+        
+### [Main-min canva Template 3 - Whole](https://www.canva.com/design/DAGJcFIqoeo/R7V45gM_zOol4vwTgUuuUQ/view?utm_content=DAGJcFIqoeo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+
+
+## Instructions
 
 1. Replace `style.css` at `/hotspot/assets/css/`
 
 2. Replace `main-min.jpg` at `/hotspot/assets/img/`
    - **Note:** The Images used have the dimensions ``(380px × 337px)`` for top portion only and ``(400px × 950px)``. They have different dimensions compared to the default jpg ``(600px × 345px)``.
-   You can use this as reference 
-      - [Top portion portal template](https://www.canva.com/design/DAGIJDVpBbw/-p_QgYGILMwf7lAiWbmQww/view?utm_content=DAGIJDVpBbw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview).
-      -[Whole portal template](https://www.canva.com/design/DAGJcFIqoeo/R7V45gM_zOol4vwTgUuuUQ/view?utm_content=DAGJcFIqoeo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
 3. Fonts can be edited for Main Font, Header 1, Header 2
    - Place the Referenced Fonts at `/hotspot/assets/font/`
