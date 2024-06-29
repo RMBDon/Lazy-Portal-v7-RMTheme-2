@@ -1,11 +1,11 @@
 # Lazy-Portal-v7-RMTheme-2
 
-<iframe src="[YOUR_ONEDRIVE_VIDEO_EMBED_LINK](https://1drv.ms/v/s!AudVBigMgximj9IrItSNTz_V5x7s2w?e=oVVk0u)" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-<iframe src="[YOUR_ONEDRIVE_VIDEO_EMBED_LINK](https://1drv.ms/v/s!AudVBigMgximj8l1UmGUDk6DBBRpPg?e=7xou4Q)" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+[Portal Tour](https://1drv.ms/v/s!AudVBigMgximj9IrItSNTz_V5x7s2w?e=oVVk0u)
+[How to edit easily CSS uisng Browser Inspect](https://1drv.ms/v/s!AudVBigMgximj8l1UmGUDk6DBBRpPg?e=7xou4Q)
 
 
 
-
+# Instructions
 
 1. Replace `style.css` at `/hotspot/assets/css/`
 
@@ -29,4 +29,4 @@
 If nagustuhan nyo boss, pangkape lang 🤣☕️ 09760049167  
 Maraming Salamat!
 
-zip password - lazy1234
+zip password - lazy5491
