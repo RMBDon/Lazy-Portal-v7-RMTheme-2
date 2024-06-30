@@ -5,7 +5,9 @@
 ![Portal](Portal.gif)
 
 ## [Downloads Folder](https://1drv.ms/f/s!AudVBigMgximj9QGwv3MwJ3fomFdzQ?e=TT6ttJ) 
-## [Latest CSS](Downloads/style.zip) 
+
+<a href="https://raw.githubusercontent.com/your-username/your-repo/main/Downloads/style.zip" download>Latest CSS</a>
+
 
 
 ## main-min Image Canva Templates:
