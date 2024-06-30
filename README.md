@@ -6,13 +6,13 @@
 
 ## [Downloads Folder](https://1drv.ms/f/s!AudVBigMgximj9QGwv3MwJ3fomFdzQ?e=TT6ttJ) 
 
-<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/style.zip" download>Latest CSS</a>
-<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/[OLD] - Last Version.zip" download>Old CSS</a>
-<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/Fonts/ElJekate.ttf" download>Font 1</a>
-<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/Fonts/Newon.ttf" download>Font 2</a>
-<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/Fonts/Walneo-Regular.ttf" download>Font 3</a>
-<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/main-min/main-min.jpg" download>main-min (top)</a>
-<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/main-min/main-min-1 (2).jpg" download>main-min (whole)</a>
+<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/style.zip" download>Latest CSS</a> | 
+<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/[OLD] - Last Version.zip" download>Old CSS</a> | 
+<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/Fonts/ElJekate.ttf" download>Font 1</a> | 
+<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/Fonts/Newon.ttf" download>Font 2</a> | 
+<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/Fonts/Walneo-Regular.ttf" download>Font 3</a> | 
+<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/main-min/main-min.jpg" download>main-min (top)</a> | 
+<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/main-min/main-min-1 (2).jpg" download>main-min (whole)</a> | 
 
 
 ## main-min Image Canva Templates:
