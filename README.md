@@ -90,8 +90,11 @@
      
         - `--ImgTopAdjust` (This adjusts the main-min on the portal. Make sure to adjust this when using other images given on this page)
 
+
 <div class="video-container">
-  <iframe width="100%" height="auto" src="https://www.youtube.com/embed/9UqjX6hPj0k?autoplay=1&mute=1&vq=hd1080" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <div class="video-wrapper">
+    <iframe src="https://www.youtube.com/embed/9UqjX6hPj0k?autoplay=1&mute=1&vq=hd1080" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 </div>
 
 
