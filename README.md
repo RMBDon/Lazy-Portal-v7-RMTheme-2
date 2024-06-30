@@ -24,13 +24,13 @@
 
    - There are 4 types of images that can be used for the portal (Only Top No Text, Only Top Have Text, Whole No Text and Whole have Text)
      - Only Top No Text
-       - Images are only at the top portion `380px × 337pxx` without any text, css settings should be **`--Turn-off-header: 0`** and adjust Text accordingly (use comments as guide)
+       - Images are only at the top portion `380px × 337pxx` without any text, css settings should be **`--Turn-off-header: 1`** and adjust Text accordingly (use comments as guide)
      - Only Top With Text
-       - Images are only at the top portion `380px × 337pxx` and have text already, recommended css settings should be **`--Turn-off-header: 1`**
+       - Images are only at the top portion `380px × 337pxx` and have text already, recommended css settings should be **`--Turn-off-header: 0`**
      - Whole No Text
-       - Images are only at the top portion `400px x 950px` without any text, css settings should be **`--Turn-off-header: 0`** and adjust Text accordingly (use comments as guide)
+       - Images are only at the top portion `400px x 950px` without any text, css settings should be **`--Turn-off-header: 1`** and adjust Text accordingly (use comments as guide)
      - Whole have Text
-       - Images covered the whole portal `400px x 950px` and have text already, recommended css settings should be **`--Turn-off-header: 1`**
+       - Images covered the whole portal `400px x 950px` and have text already, recommended css settings should be **`--Turn-off-header: 0`**
 
 ### 3. Fonts can be edited for Main Font, Header 1, Header 2
    - Place the Referenced Fonts at `/hotspot/assets/font/`
