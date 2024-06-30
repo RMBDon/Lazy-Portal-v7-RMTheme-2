@@ -52,7 +52,7 @@
      
        b. The parameters involve in centering the image are:
      
-        - `--MainImgScale` : 100% (Ensure that the image is equal or less than the whole screen to avoid glitching) (max of 100%)
+        - `--MainImgScale : 100%` (Ensure that the image is equal or less than the whole screen to avoid glitching) (max of 100%)
      
         - `--AdjustHeaderDistance` (This adjusts the positions of the buttons below. Make sure you give enough space for hidden buttons)
      
