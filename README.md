@@ -5,6 +5,7 @@
 ![Portal](Portal.gif)
 
 ## [Downloads Folder](https://1drv.ms/f/s!AudVBigMgximj9QGwv3MwJ3fomFdzQ?e=TT6ttJ) 
+## [Latest CSS](Downloads/style.zip) 
 
 
 ## main-min Image Canva Templates:
