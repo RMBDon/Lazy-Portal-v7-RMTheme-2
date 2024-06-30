@@ -65,7 +65,8 @@
      
         - `--ImgTopAdjust` (This adjusts the main-min on the portal. Make sure to adjust this when using other images given on this page)
 
-<iframe width="560" height="315" src="https://youtu.be/7wwzAC6C3Vs?autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7wwzAC6C3Vs?autoplay=1&mute=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ---
