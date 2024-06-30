@@ -1,4 +1,10 @@
-<iframe width="800" height="450" src="https://www.youtube.com/embed/G_BOb4uyBSs?autoplay=1&mute=1&vq=hd1080" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="video-container">
+  <iframe width="100%" height="auto" src="https://www.youtube.com/embed/G_BOb4uyBSs?autoplay=1&mute=1&vq=hd1080" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
+
 
 ## Downloads
 <a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/style.zip" download>Latest CSS</a> || 
@@ -61,7 +67,9 @@
      
         - `--ImgTopAdjust` (This adjusts the main-min on the portal. Make sure to adjust this when using other images given on this page)
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/9UqjX6hPj0k?autoplay=1&mute=1&vq=hd1080" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-container">
+  <iframe width="100%" height="auto" src="https://www.youtube.com/embed/9UqjX6hPj0k?autoplay=1&mute=1&vq=hd1080" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 ---
