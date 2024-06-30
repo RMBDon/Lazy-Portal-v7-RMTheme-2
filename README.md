@@ -1,5 +1,3 @@
-# Lazy Portal v7 - RMTheme 2
-
 <iframe width="800" height="450" src="https://www.youtube.com/embed/G_BOb4uyBSs?autoplay=1&mute=1&vq=hd1080" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Downloads
