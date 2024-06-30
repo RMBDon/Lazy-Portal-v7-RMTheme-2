@@ -5,20 +5,20 @@
 ![Portal](Portal.gif)
 
 ## Downloads
-<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/style.zip" download>Latest CSS</a> | 
-<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/[OLD] - Last Version.zip" download>Old CSS</a> | 
-<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/Fonts/ElJekate.ttf" download>Font 1</a> | 
-<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/Fonts/Newon.ttf" download>Font 2</a> | 
-<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/Fonts/Walneo-Regular.ttf" download>Font 3</a> | 
-<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/main-min/main-min.jpg" download>main-min (top)</a> | 
-<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/main-min/main-min-1 (2).jpg" download>main-min (whole)</a> | 
+<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/style.zip" download>Latest CSS</a> || 
+<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/[OLD] - Last Version.zip" download>Old CSS</a> || 
+<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/Fonts/ElJekate.ttf" download>Font 1</a> || 
+<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/Fonts/Newon.ttf" download>Font 2</a> || 
+<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/Fonts/Walneo-Regular.ttf" download>Font 3</a> || 
+<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/main-min/main-min.jpg" download>main-min (top)</a> || 
+<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/main-min/main-min-1 (2).jpg" download>main-min (whole)</a> || 
 
 
-## main-min Image Canva Templates:
+ ### main-min Image Canva Templates:
 
-### [Main-min canva Template 1 - Only Top](https://www.canva.com/design/DAGIJDVpBbw/-p_QgYGILMwf7lAiWbmQww/view?utm_content=DAGIJDVpBbw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   - [Main-min canva Template 1 - Only Top](https://www.canva.com/design/DAGIJDVpBbw/-p_QgYGILMwf7lAiWbmQww/view?utm_content=DAGIJDVpBbw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
         
-### [Main-min canva Template 3 - Whole](https://www.canva.com/design/DAGJcFIqoeo/R7V45gM_zOol4vwTgUuuUQ/view?utm_content=DAGJcFIqoeo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
+   - [Main-min canva Template 3 - Whole](https://www.canva.com/design/DAGJcFIqoeo/R7V45gM_zOol4vwTgUuuUQ/view?utm_content=DAGJcFIqoeo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
 
 ## Instructions
