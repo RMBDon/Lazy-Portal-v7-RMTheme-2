@@ -30,8 +30,8 @@
 
 
 ## Downloads
-<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/style.zip" download>Latest CSS</a> || 
-<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/[OLD] - Last Version.zip" download>Old CSS</a> || 
+<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/style.zip" download>Latest CSS</a> || 
+<a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/[OLD] - Last Version.zip" download>Old CSS</a> || 
 <a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/Fonts/ElJekate.ttf" download>Font 1</a> || 
 <a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/Fonts/Newon.ttf" download>Font 2</a> || 
 <a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/Fonts/Walneo-Regular.ttf" download>Font 3</a> || 
