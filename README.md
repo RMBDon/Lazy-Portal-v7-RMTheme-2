@@ -1,4 +1,4 @@
-
+# Lazy Portal v7 Adjustable Theme v2
 
 <div class="video-container">
   <div class="video-wrapper">
@@ -27,6 +27,7 @@
   }
 </style>
 
+---
 
 ## Downloads
 <a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/style.zip" download>Latest CSS</a> || 
@@ -44,6 +45,7 @@
         
    - [Main-min canva Template 3 - Whole](https://www.canva.com/design/DAGJcFIqoeo/R7V45gM_zOol4vwTgUuuUQ/view?utm_content=DAGJcFIqoeo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
 
+---
 
 ## Instructions
 
@@ -101,19 +103,21 @@
 
 # If nagustuhan nyo boss, pangkape lang 🤣☕️ 09760049167
 
+---
   
 ## Maraming Salamat!
 
+---
 
 ### zip password - lazy5491
 
-
+---
 
 #### Other files if you like
 
 <a href="https://rmbdon.github.io/JuanfiMessengerChat/" download> Portal Redirect with Juanfi Messenger Chat</a>
 
-
+---
 
 #### Also available customized Mikrotik Scripts . Need remote (not 1 click install 😅) depende if available ang time
 
