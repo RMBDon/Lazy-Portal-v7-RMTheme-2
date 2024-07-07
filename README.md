@@ -103,3 +103,35 @@
 ## Maraming Salamat!
 
 ### zip password - lazy5491
+
+#### Other files if you like
+
+<a href="https://rmbdon.github.io/JuanfiMessengerChat/" download> Portal Redirect with Juanfi Messenger Chat</a>
+
+
+
+#### Also available customized Mikrotik Scripts . Need remote (not 1 click install 😅) depende if available ang time
+
+  - Failover Telegram Notification
+
+    - Error Handling during Telegram outage (saved to backup in txt form)
+
+  - Accurate Monthly/Yearly Script Reset
+
+    - Exact day of the month reset (not 30days)
+
+  - Auto reboot (based on # operating hours and user count)
+
+  - Modify onlogin/ onlogout script
+
+  - Modified Telegram Notifications
+
+    - Add system variables
+
+    - Change Format
+
+    - Notify node or interface down
+
+    - Notify internet is down
+
+  - Others
