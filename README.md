@@ -30,6 +30,7 @@
 ---
 
 ## Downloads
+
 <a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/style.zip" download>Latest CSS</a> || 
 <a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/[OLD] - Last Version.zip" download>Old CSS</a> || 
 <a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/Fonts/ElJekate.ttf" download>Font 1</a> || 
@@ -101,7 +102,7 @@
 
 ---
 
-# If nagustuhan nyo boss, pangkape lang 🤣☕️ 09760049167
+## If nagustuhan nyo boss, pangkape lang 🤣☕️ `09760049167`
 
 ---
   
@@ -109,7 +110,7 @@
 
 ---
 
-### zip password - lazy5491
+### zip password - `lazy5491`
 
 ---
 
