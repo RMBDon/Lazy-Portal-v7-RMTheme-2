@@ -116,7 +116,7 @@
 
 #### Other files if you like
 
-<a href="https://rmbdon.github.io/JuanfiMessengerChat/" download> Portal Redirect with Juanfi Messenger Chat</a>
+<a href="https://rmbdon.github.io/JuanfiMessengerChat/"> Portal Redirect with Juanfi Messenger Chat</a>
 
 ---
 
