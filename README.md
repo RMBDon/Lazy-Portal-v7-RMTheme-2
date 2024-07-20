@@ -31,6 +31,8 @@
 
 ## Downloads
 
+<!--
+
 <a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/style.zip" download>Latest CSS</a> || 
 <a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/[OLD] - Last Version.zip" download>Old CSS</a> || 
 <a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/Downloads/Fonts/ElJekate.ttf" download>Font 1</a> || 
@@ -39,6 +41,7 @@
 <a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/main-min/1/main-min.jpg" download>main-min (top)</a> || 
 <a href="https://raw.githubusercontent.com/RMBDon/Lazy-Portal-v7-RMTheme-2/main/main-min/2/main-min.jpg" download>main-min (whole)</a> || 
 
+-->
 
  ### main-min Image Canva Templates:
 
