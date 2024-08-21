@@ -28,7 +28,7 @@
 </style>
 
 ---
-<!--
+
 ## Downloads
 
 
@@ -48,7 +48,7 @@
    - [Main-min canva Template 1 - Only Top](https://www.canva.com/design/DAGIJDVpBbw/-p_QgYGILMwf7lAiWbmQww/view?utm_content=DAGIJDVpBbw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
         
    - [Main-min canva Template 3 - Whole](https://www.canva.com/design/DAGJcFIqoeo/R7V45gM_zOol4vwTgUuuUQ/view?utm_content=DAGJcFIqoeo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)
--->
+
 ---
 
 ## Instructions
