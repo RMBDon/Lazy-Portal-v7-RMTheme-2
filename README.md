@@ -112,9 +112,9 @@
 ## Maraming Salamat!
 
 ---
-
+<!--
 ### zip password - `lazy2683`
-
+-->
 ---
 
 #### Other files if you like
